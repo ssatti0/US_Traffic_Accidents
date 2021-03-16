@@ -17,3 +17,4 @@ List of documents, in chronological order:
 - Capstone 1 Milestone Report
 - Capstone 1 Final Report
 
+Tableau Public [dashboard of Traffic Accidents](https://public.tableau.com/profile/sara1398#!/vizhome/Accidents_16156743071340/Dashboard1).
